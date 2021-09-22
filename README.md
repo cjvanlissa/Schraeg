@@ -15,6 +15,7 @@ See the Changelog below for more updates and version-specific fixes.
 * [Schematic](Schraeg/Schraeg.pdf)
 * [Gerbers](Schraeg/output)
 * [BOM](Schraeg/Schraeg%20BOM.csv)
+* [Build video](https://www.youtube.com/watch?v=-VgApZNQpGM)
 * [Schräg on ModularGrid](https://www.modulargrid.net/e/other-unknown-schraeg)
 
 ## Features
@@ -39,6 +40,10 @@ with a few modifications:
 * Schematics and PCB laid out using KiCAD
 
 The additional functionality is achieved with a minimum of extra components, thanks to the two unused VCA cells in the original design.
+
+## Build video
+
+[![Schräg build video](http://img.youtube.com/vi/-VgApZNQpGM/0.jpg)](http://www.youtube.com/watch?v=http://img.youtube.com/vi/-VgApZNQpGM/0.jpg "Schräg filter (Bastl Cinnamon clone) - Build, calibration, review & demo")
 
 ## License
 
